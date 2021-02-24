@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Move.it
 
 Move.it is a web application to remind home office workers to strech and make some exercises from time to time. built with Nextjs and Typescrit
 
