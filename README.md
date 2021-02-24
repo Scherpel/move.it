@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Move.it is a web application to remind home office workers to strech and make some exercises from time to time. built with Nextjs and Typescrit
+
+Project design available on: https://www.figma.com/file/5dUKnETyAHVM7JXYXFlLkr/Move.it-1.0-Copy?node-id=150001%3A179
 
 ## Available Scripts
 
